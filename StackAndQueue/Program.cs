@@ -16,6 +16,15 @@ namespace StackAndQueue
             st.Push(30);
             st.Push(56);
             st.display();
+            st.Peek();
+            st.Pop();
+            st.display();
+            st.Peek();
+            st.Pop();
+            st.display();
+            st.Peek();
+            st.Pop();
+            st.display();
         }
     }
 }
